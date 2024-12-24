@@ -1,0 +1,28 @@
+
+.bg-color {
+  background-color: #302874;
+  position:absolute;
+  top: 65px;
+  left:0;
+  right:0;
+  bottom:0;
+}
+.form-wrapper{
+  background-color: #fff;
+  padding:1px 30px 30px;
+  border-radius:20px;
+  margin:100px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.color{
+   padding:'20px';
+   width:'25rem';
+   background-color:"pink";
+   border-Radius:5;
+   display:"flex";
+  flex-Direction:"column";
+   align-Items:"center";
+   justify-Content:"center";
+}
