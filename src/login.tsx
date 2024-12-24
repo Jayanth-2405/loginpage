@@ -77,6 +77,9 @@ const Loginform = () => {
         <Wrapper>
           <Title>Your Details</Title>
         </Wrapper>
+        <Wrapper>
+          
+        </Wrapper>
       </Container>
     </div>
   );
@@ -100,11 +103,11 @@ const Title = styled.h1`
 
 `;
 const Wrapper = styled.section`
-  padding: 4em;
+  padding: 2.5em;
   background: skyblue;
   margin-top: 100px;
   margin-left: 20px;
   border-radius: 10px;
-  margin-right: 20px;
+  margin-right: 5px;
   hover: ;
 `;
